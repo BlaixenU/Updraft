@@ -1,0 +1,10 @@
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\bin\Debug\netstandard2.1\Updraft.dll
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\bin\Debug\netstandard2.1\Updraft.pdb
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.csproj.AssemblyReference.cache
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.AssemblyInfoInputs.cache
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.AssemblyInfo.cs
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.csproj.CoreCompileInputs.cache
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.dll
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.pdb
