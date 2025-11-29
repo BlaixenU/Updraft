@@ -211,7 +211,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Updraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d399e229d92877a1119fe86907da9663f8c4bfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Updraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Updraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

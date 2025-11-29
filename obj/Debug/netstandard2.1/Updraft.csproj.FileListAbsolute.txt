@@ -8,3 +8,4 @@ C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandar
 C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.csproj.CoreCompileInputs.cache
 C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.dll
 C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.pdb
+C:\Users\Ali_K\OneDrive\Documents\ULTRAKILL Modding\Updraft\obj\Debug\netstandard2.1\Updraft.sourcelink.json

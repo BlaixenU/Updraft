@@ -55,14 +55,19 @@ public class Patches
     private static void UpdraftLogic(Wings wings)
     {
         NewMovement player = wings.mov;
-        bool pressedJump = wings.input.Jump.WasPerformedThisFrame;
+        bool pressedJump = wings.input.Jump.IsPressed;
+        float sinceGrounded = player.gc.sinceLastGrounded;
         
+        Plugin.Logger.LogInfo($"remaining drafts: {remainingDrafts}");
+        Plugin.Logger.LogInfo($"since grounded: {sinceGrounded}s");
+        Plugin.Logger.LogInfo($"pressed jump: {pressedJump}");
+
         if (player.gc.onGround)
         {
             remainingDrafts = 1;
             return;
         }
-        else
+        else if (sinceGrounded > 0.1)
         {
             if (remainingDrafts > 0 && pressedJump)
             {
@@ -73,6 +78,12 @@ public class Patches
                 player.rb.velocity = velocityBuffer;
             }
         }
+    }
+
+    [HarmonyPostfix, HarmonyPatch(typeof(NewMovement), nameof(NewMovement.Parry))]
+    private static void YoureNotEntitledToActualMethodNamesHaha()
+    {
+        remainingDrafts += 1;
     }
 
     [HarmonyTranspiler,
