@@ -39,6 +39,11 @@
       <Private>false</Private>
       <CopyLocal>false</CopyLocal>
     </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>$(UltrakillDir)ULTRAKILL_Data/Managed/Unity.Addressables.dll</HintPath>
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
     <Reference Include="ProjectProphet"> 
       <HintPath>F:\Steam\steamapps\common\ULTRAKILL - Bepinex\BepInEx\plugins\Maranara-Masquerade_Divinity\Masquerade Divinity\ProjectProphet.dll</HintPath>
       <Private>false</Private>
